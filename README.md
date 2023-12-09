@@ -15,6 +15,12 @@ Tôi là Lê Thế Cường, một sinh viên tại Đại học Quốc gia Hà 
 - Các mô hình ngôn ngữ lớn LLMs
 - Các thuật toán về mạng đồ thị GNNs
 
+## Khám phá các dự án của tôi tại kho lưu trữ Github
+- Translation model
+- Detect fraudulent transactions
+- Detect cancer
+- Và các dự án nhỏ khác...😄😄😄
+
 ## 📫 Cách liên hệ với tôi
 
 Gmail: thecuong.work@gmail.com
