@@ -1,6 +1,6 @@
 # Xin chào 👋
 
-Tôi là Lê Thế Cường, một sinh viên tại Đại học Quốc gia Hà Nội.
+Tôi là Lê Thế Cường, một sinh viên đã tốt nghiệp tại Đại học Quốc gia Hà Nội.
 
 ## 🌱 Những gì tôi đang học
 
@@ -19,8 +19,10 @@ Tôi là Lê Thế Cường, một sinh viên tại Đại học Quốc gia Hà 
 - Translation model
 - Detect fraudulent transactions
 - Detect cancer
+- AI Chatbot RAG
 - Và các dự án nhỏ khác...😄😄😄
 
 ## 📫 Cách liên hệ với tôi
 
 Gmail: thecuong.work@gmail.com
+Huggingface: https://huggingface.co/thecuong
